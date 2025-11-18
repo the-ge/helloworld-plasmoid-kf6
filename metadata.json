@@ -8,8 +8,8 @@
             }
         ],
         "BugReportUrl": "https://github.com/the-ge/helloworld-plasmoid-kf6/issues",
-        "Category": "Application Launchers",
-        "Description": "Launcher to start applications",
+        "Category": "Development",
+        "Description": "A minimal hello‑world plasmoid for Plasma 6.",
         "EnabledByDefault": true,
         "Icon": "start-here-kde",
         "Id": "thege.helloworld.plasmoid.kf6",
