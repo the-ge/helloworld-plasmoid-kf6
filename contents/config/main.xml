@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <kcfgfile name=""/>
+    <group name="Configuration Group #1">
+        <entry key="int1" type="int">
+            <default>2</default>
+        </entry>
+        <entry key="bool1" type="bool">
+            <default>true</default>
+        </entry>
+        <entry key="string1" type="string">
+            <default>qwerty</default>
+        </entry>
+    </group>
+    <group name="Configuration Group #2">
+        <entry key="int2" type="int">
+            <default>3</default>
+        </entry>
+        <entry key="bool2" type="bool">
+            <default>false</default>
+        </entry>
+        <entry key="string2" type="string">
+            <default>asdfgh</default>
+        </entry>
+    </group>
+</kcfg>
